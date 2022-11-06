@@ -64,10 +64,10 @@
 import 'vuetify/dist/vuetify.min.css'
 import VuetifyFloatingMessage from 'vuetify'
 Vue.use(VuetifyFloatingMessage, { Vuetify }) */
-import Vue from 'vue'
-import VuetifyNumberInput from '@jzolago/vuetify-number-input'
+// import Vue from 'vue'
+// import VuetifyNumberInput from '@jzolago/vuetify-number-input'
 
-Vue.use(VuetifyNumberInput)
+// Vue.use(VuetifyNumberInput)
 export default {
   props: ['name', 'image', 'description', 'price'],
   data () {
