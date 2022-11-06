@@ -1,0 +1,11 @@
+{
+  "MyCart": {
+    "description": "Auto imported from components/MyCart.vue"
+  },
+  "MyDish": {
+    "description": "Auto imported from components/MyDish.vue"
+  },
+  "MyHistory": {
+    "description": "Auto imported from components/MyHistory.vue"
+  }
+}
